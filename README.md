@@ -11,4 +11,5 @@ yay starting another leetcode study plan, but in both javascript and python
 
 7/24
 - reverseWords
-- 
+- mergeStringsAlternately
+- stringCompression
