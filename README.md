@@ -13,3 +13,9 @@ yay starting another leetcode study plan, but in both javascript and python
 - reverseWords
 - mergeStringsAlternately
 - stringCompression
+
+8/2
+- maxNumberofkSumPairs
+- containerWithMostWater
+- longestPalindromicSubstring
+- isSubsequence
