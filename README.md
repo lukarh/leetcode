@@ -19,3 +19,7 @@ yay starting another leetcode study plan, but in both javascript and python
 - containerWithMostWater
 - longestPalindromicSubstring
 - isSubsequence
+
+8/6
+- maximumAverageSubarray
+- maximumNumberOfVowelsInSubstringOfGivenLength
