@@ -29,3 +29,21 @@ Import function from file
 `import { functionName } from './filepath/filename`
 
 `functionName(params...)`
+
+# Useful Methods
+
+`.has(key: K): boolean - Checks if the map contains the key.`
+
+`.get(key: K): V | undefined - Returns the value for the given key, or undefined if the key doesn’t exist.`
+
+`.set(key: K, value: V): this - Adds or updates the key with the specified value.`
+
+`Math.floor() - to round down;`
+
+`Math.ceil() - to round up;`
+
+`Math.round() - to round nearest integer`
+
+`Math.trunc() - to remove/truncate decimals`
+
+`Math.min/max(num1, num2) - get min/max between two numbers`
